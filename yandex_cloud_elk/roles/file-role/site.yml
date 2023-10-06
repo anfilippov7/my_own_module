@@ -1,0 +1,6 @@
+---
+- name: My own module
+  hosts: localhost
+  roles:
+    - file-role
+

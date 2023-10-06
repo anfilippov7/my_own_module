@@ -1,0 +1,4 @@
+---
+# defaults file for file-role
+path: "/home/aleksander/ansible/text.txt"
+content: "Записываем текст"
